@@ -4,7 +4,7 @@ browserSync = require('browser-sync').create();
 
 
 gulp.task('html', function(){
-	console.log("vediamo se questo schifo funziona in html");
+	console.log("vediamo se questo funziona in html");
 });
 
 
